@@ -85,7 +85,7 @@ Além da tecnologia, gosto de:
 
 ## Contato
 
-* LinkedIn: [preencher]
-* E-mail: [preencher]
-* Portfólio: [preencher]
-* GitHub: [preencher]
+* LinkedIn: https://www.linkedin.com/in/daniel-gomes-06930b3b5/
+* E-mail: danielgomes132005@gmail.com
+* Portfólio: https://asutsuo.github.io/portifolio/
+* GitHub: https://github.com/Asutsuo
