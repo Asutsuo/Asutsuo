@@ -1,91 +1,155 @@
-# Daniel Gomes
+<p align="center">
 
-**Técnico de TI | Desenvolvedor Full Stack**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Daniel+Gomes;C%23+Developer;Game+Developer;Web+Developer;Always+Building+Something"/>
 
-Sou profissional de TI com experiência em infraestrutura, redes, automação e desenvolvimento de software.
+</p>
 
-Atuei por mais de dois anos como Técnico de TI e Redes no Exército Brasileiro, trabalhando com administração de servidores, manutenção de equipamentos, suporte técnico, redes e desenvolvimento de soluções internas. Antes mesmo da experiência profissional, já estudava programação de forma independente desde os 13 anos.
+<h3 align="center">
 
-Minha jornada começou no desenvolvimento de jogos 2D com GameMaker Studio, evoluindo posteriormente para programação orientada a objetos com Python e C#. Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e direciono meus estudos para desenvolvimento web, engenharia de software e arquitetura de aplicações.
+Building software one project at a time.
 
-Entre meus projetos estão o desenvolvimento de um site corporativo para um escritório de contabilidade, um portfólio interativo e o **Unit Zero**, um player de música retrô desenvolvido como aplicação web.
+</h3>
 
-Também tenho interesse em inteligência artificial e pretendo aprofundar meus estudos em Álgebra Linear e Redes Neurais.
+<p align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=Asutsuo&color=58A6FF&style=for-the-badge"/>
 
-## Tecnologias
+<img src="https://img.shields.io/github/followers/Asutsuo?style=for-the-badge&logo=github"/>
 
-### Linguagens
+<img src="https://img.shields.io/github/stars/Asutsuo?style=for-the-badge&logo=github"/>
 
-* Python
-* C#
-* TypeScript
-* HTML
-* CSS
-
-### Ferramentas e Infraestrutura
-
-* Linux
-* Git
-* Vim
-
-### Áreas de Interesse
-
-* Desenvolvimento Web
-* Automação
-* Redes
-* Engenharia de Software
-* Inteligência Artificial
+</p>
 
 ---
 
-## Projetos
+# 👋 About Me
 
-### Unit Zero
+```cs
+class DanielGomes
+{
+    public string Role => "Software Developer";
 
-Player de música retrô desenvolvido como aplicação web, focado em uma experiência visual inspirada em sistemas clássicos.
+    public string[] Focus =>
+    {
+        "Desktop Applications",
+        "Game Development",
+        "Web Development"
+    };
 
-### Portfólio Interativo
+    public string[] Languages =>
+    {
+        "C#",
+        "TypeScript",
+        "Python"
+    };
 
-Projeto pessoal utilizado para apresentar experiências, habilidades e projetos através de uma interface dinâmica.
+    public string[] Technologies =>
+    {
+        ".NET",
+        "MonoGame",
+        "HTML",
+        "CSS",
+        "Git",
+        "Linux"
+    };
 
-### Sistema Corporativo para Escritório de Contabilidade
-
-Desenvolvimento de website institucional com dashboard interativo para gerenciamento e visualização de informações.
-
----
-
-## Atualmente Estudando
-
-* Desenvolvimento Web Full Stack
-* Arquitetura de Software
-* TypeScript
-* Álgebra Linear
-* Inteligência Artificial e Redes Neurais
-
----
-
-## Idiomas
-
-* Português — Nativo
-* Inglês — Intermediário
-* Espanhol — Intermediário
-
----
-
-## Interesses
-
-Além da tecnologia, gosto de:
-
-* Leitura
-* Xadrez
+    public string Motto =>
+        "Learn by building.";
+}
+```
 
 ---
 
-## Contato
+# ⚡ Tech Stack
 
-* LinkedIn: https://www.linkedin.com/in/daniel-gomes-06930b3b5/
-* E-mail: danielgomes132005@gmail.com
-* Portfólio: https://asutsuo.github.io/portifolio/
-* GitHub: https://github.com/Asutsuo
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,typescript,js,html,css,git,github,linux,vscode,visualstudio"/>
+
+</p>
+
+---
+
+# 💼 What I Do
+
+🎮 Developing games and graphics applications with **MonoGame**
+
+🌐 Building responsive websites with **HTML, CSS and TypeScript**
+
+💻 Creating desktop software using **C#/.NET**
+
+🚀 Deploying real-world applications
+
+📚 Always learning by creating complete projects
+
+---
+
+# 🚀 Featured Projects
+
+| Project             | Description                              | Status | Tech                  |
+| :------------------ | :--------------------------------------- | :----: | :-------------------- |
+| 💻 O.G Servicos     | Corporate website for an accounting firm |   ✅   | HTML, CSS, JavaScript |
+| 💣 MineSweeper      | Complete Minesweeper clone               |   ✅   | C#, MonoGame          |
+| 🎮 Sandbox Engine   | My own MonoGame framework                |   🚧   | C#, MonoGame          |
+| 🌱 Game of Life     | Conway simulation                        |   🚧   | C#, MonoGame          |
+| 🎵 Unit Zero        | Retro music player                       |   🚧   | HTML, CSS, TypeScript |
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Asutsuo&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asutsuo&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Asutsuo/Asutsuo/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- Advanced C#
+- Object-Oriented Design
+- Database Systems
+- Software Architecture
+- MonoGame Engine Development
+
+---
+
+# 🌎 Connect with me
+
+<p align="center">
+
+<a href="https://github.com/Asutsuo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/daniel-gomes-06930b3b5/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:danielgomes132005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
