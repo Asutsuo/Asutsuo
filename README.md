@@ -149,7 +149,11 @@ class DanielGomes
 </a>
 
 <a href="mailto:danielgomes132005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://asutsuo.github.io/portifolio/">
+  <img src="https://img.shields.io/badge/Portfolio-brown?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
 </p>
